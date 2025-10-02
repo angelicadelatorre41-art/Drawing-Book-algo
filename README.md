@@ -1,1 +1,1 @@
-# Drawing-Book-algo
+# Drawing-Book-algo This program calculates the minimum number of page turns needed to reach a target page p in a book of n pages. It checks flips from both the front and the back of the book, then returns the smaller value.
